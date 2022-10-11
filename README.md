@@ -9,6 +9,7 @@ Layers form top to bottom
 
 http://localhost:8888/WAYD/public/SocialNetwork_#/index.php
 
+```
 *** DB connection local: ***
 
 <?php
@@ -59,6 +60,7 @@ try {
 } catch (PDOException $e) {
     throw new PDOException($e->getMessage(), $e->getCode());
 }
+```
 
 
 
