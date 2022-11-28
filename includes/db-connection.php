@@ -6,7 +6,7 @@ $port     = '8889';
 $charset  = 'utf8';
 
 $username = 'testuser';
-$password = 'testuserpassword42';
+$password = 'testuserpassword';
 
 $options  = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,

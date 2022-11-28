@@ -40,12 +40,12 @@ try {
 <?php
 $type     = 'mysql';
 $server   = 'localhost';
-$db       = 'sigmaone_social_network_db';
+$db       = '???';
 $port     = '3306';
 $charset  = 'utf8';
 
-$username = 'sigmaone_Pietro';
-$password = 'EnN!Q]v3QL}U';
+$username = '???';
+$password = '???';
 
 $options  = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
